@@ -105,9 +105,6 @@ The detected color is displayed on the video frame and announced through voice f
 * Add smoother frame processing
 * Convert the notebook into a full Python application
 
-## License
-
-Add a license file before sharing or reusing the project publicly.
 
 ## Author
 
